@@ -4,7 +4,7 @@ from fake_useragent import UserAgent
 import requests
 from bs4 import BeautifulSoup
 
-path = '/Users/stone//Desktop/'
+path = '/Users/stone/Desktop/'
 
 Meta_Url = 'https://tv.cctv.com/lm/xwlb/'
 ua = {'User-Agent': UserAgent().random}
