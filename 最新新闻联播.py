@@ -35,5 +35,4 @@ with open(md, 'w') as f:
             f.write(p)  # 写入内容
             f.write('\r\n\r\n')  # 空行
 
-f.close()
 print('文件保存成功')
